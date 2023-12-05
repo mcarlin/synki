@@ -1,0 +1,11 @@
+{
+	"id": "synki",
+	"name": "Synki",
+	"version": "0.1.0",
+	"minAppVersion": "0.15.0",
+	"description": "An app to sync card-annotated notes to Anki",
+	"author": "mcarlin",
+	"authorUrl": "https://mcarlin.com",
+	"fundingUrl": "",
+	"isDesktopOnly": false
+}
